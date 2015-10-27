@@ -1,7 +1,7 @@
 Ashley Turnbull <br>
 ashturn@umd.edu <br>
 INFM600
-
+<br>
 Data sources: <br><br>
 Howard County Department of Fire and Rescue Services. (2015). Fire and Rescue Apparatus Responses: 2012 – 2014 [Data file]. Retrieved from https://opendata.howardcountymd.gov/Public-Safety/Fire-And-Rescue-Apparatus-Responses-2012-2014/xvpn-2pnt <br>
 This data set contains information about each incident that required a call for Howard County Fire and Rescue.  This includes the incident identification number, specifics about the apparatus, important times regarding the call, the number of people responding, and any actions taken.  This data set is for all calls from 2012 to 2014. <br><br>
