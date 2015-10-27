@@ -15,7 +15,7 @@ Documentation file:
 “Combining the Apparatus Responses and Personnel Responses Data Sets”
 
 
-Questions:
+Questions:<br><br>
 What was the breakdown of the ranks of personnel that responded to each incident?  
 
 Did the calls that required assistance from other counties have more responding personnel, compared to calls that did not require assistance?
@@ -23,9 +23,9 @@ Did the calls that required assistance from other counties have more responding 
 Did “careers” or “volunteers” have a faster “enroute scene time” from dispatch time?  
 
 
-New data set:
+New data set: <br>
 Turnbull, A. (2015). Fire and Rescue Apparatus and Personnel Responses: 2012 – 2014 [Data file].
 
 
-CC License:
+CC License: <br>
 Attribution-NonCommercial
