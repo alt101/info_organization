@@ -2,7 +2,7 @@ Ashley Turnbull <br>
 ashturn@umd.edu <br>
 INFM600
 
-Data sources: <br><br>
+Data sources: <br>
 Howard County Department of Fire and Rescue Services. (2015). Fire and Rescue Apparatus Responses: 2012 – 2014 [Data file]. Retrieved from https://opendata.howardcountymd.gov/Public-Safety/Fire-And-Rescue-Apparatus-Responses-2012-2014/xvpn-2pnt <br>
 This data set contains information about each incident that required a call for Howard County Fire and Rescue.  This includes the incident identification number, specifics about the apparatus, important times regarding the call, the number of people responding, and any actions taken.  This data set is for all calls from 2012 to 2014. <br><br>
 Howard County Department of Fire and Rescue Services. (2015). Fire & Rescue Personnel Responses: 2012 – 2014 [Data file]. Retrieved from https://opendata.howardcountymd.gov/Public-Safety/Fire-Rescue-Personnel-Responses-2012-2014/8fxg-nyr5 <br>
@@ -11,16 +11,14 @@ Howard County Department of Fire and Rescue Services. (2015). Fire and Rescue As
 This data set contains data regarding incidents that required assistance from other counties from 2012 to 2014.  Some of the included counties are Anne Arundel, Baltimore Carroll, Montgomery, and Prince George’s.  This data set includes the incident identification number, information about the assisting apparatus, the assisting station code, and the name of the assisting county.
 
 
-Documentation file:
+Documentation file:<br>
 “Combining the Apparatus Responses and Personnel Responses Data Sets”
 
 
-Questions:<br><br>
-What was the breakdown of the ranks of personnel that responded to each incident?  
-
-Did the calls that required assistance from other counties have more responding personnel, compared to calls that did not require assistance?
-
-Did “careers” or “volunteers” have a faster “enroute scene time” from dispatch time?  
+Questions:<br>
+What was the breakdown of the ranks of personnel that responded to each incident?<br>
+Did the calls that required assistance from other counties have more responding personnel, compared to calls that did not require assistance?<br>
+Did “careers” or “volunteers” have a faster “enroute scene time” from dispatch time?<br>
 
 
 New data set: <br>
