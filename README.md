@@ -1,4 +1,3 @@
-# info_organization
 Ashley Turnbull
 ashturn@umd.edu
 
